@@ -1,0 +1,11 @@
+C:\Users\luan_\source\repos\Crawler\Crawler\bin\Debug\netcoreapp2.1\Crawler.deps.json
+C:\Users\luan_\source\repos\Crawler\Crawler\bin\Debug\netcoreapp2.1\Crawler.runtimeconfig.json
+C:\Users\luan_\source\repos\Crawler\Crawler\bin\Debug\netcoreapp2.1\Crawler.runtimeconfig.dev.json
+C:\Users\luan_\source\repos\Crawler\Crawler\bin\Debug\netcoreapp2.1\Crawler.dll
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.csprojAssemblyReference.cache
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.AssemblyInfoInputs.cache
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.AssemblyInfo.cs
+C:\Users\luan_\source\repos\Crawler\Crawler\bin\Debug\netcoreapp2.1\Crawler.pdb
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.dll
+C:\Users\luan_\source\repos\Crawler\Crawler\obj\Debug\netcoreapp2.1\Crawler.pdb
